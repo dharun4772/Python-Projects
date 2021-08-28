@@ -94,4 +94,5 @@ while(count!=0):
     print(stages[count-1])
     count-=1
 if(count==0):
+  print(word)
   print("LOST")
